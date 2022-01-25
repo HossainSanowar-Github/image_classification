@@ -1,1 +1,2 @@
-# image_classification on cats and dogs
+# cat and dog images classification
+# food images classification
